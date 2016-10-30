@@ -1,0 +1,1832 @@
+[
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-1",
+    "daily_im_txn": 189352.25,
+    "daily_to_txn": 388
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-2",
+    "daily_im_txn": 119338.9,
+    "daily_to_txn": 241
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-3",
+    "daily_im_txn": 121580.24,
+    "daily_to_txn": 247
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-4",
+    "daily_im_txn": 42663.27,
+    "daily_to_txn": 83
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-5",
+    "daily_im_txn": 171107.1,
+    "daily_to_txn": 327
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-6",
+    "daily_im_txn": 201286.03,
+    "daily_to_txn": 281
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-7",
+    "daily_im_txn": 181028.63,
+    "daily_to_txn": 346
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-8",
+    "daily_im_txn": 108156.24,
+    "daily_to_txn": 221
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-9",
+    "daily_im_txn": 189347.55,
+    "daily_to_txn": 369
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-10",
+    "daily_im_txn": 95561.7,
+    "daily_to_txn": 184
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-11",
+    "daily_im_txn": 616478.84,
+    "daily_to_txn": 333
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-12",
+    "daily_im_txn": 111199.28,
+    "daily_to_txn": 233
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-13",
+    "daily_im_txn": 110182.69,
+    "daily_to_txn": 246
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-14",
+    "daily_im_txn": 659681.58,
+    "daily_to_txn": 336
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-15",
+    "daily_im_txn": 262509.76,
+    "daily_to_txn": 405
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-16",
+    "daily_im_txn": 207829.55,
+    "daily_to_txn": 341
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-17",
+    "daily_im_txn": 81422.95,
+    "daily_to_txn": 177
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-18",
+    "daily_im_txn": 220021.47,
+    "daily_to_txn": 403
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-19",
+    "daily_im_txn": 665629.28,
+    "daily_to_txn": 230
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-20",
+    "daily_im_txn": 75482.57,
+    "daily_to_txn": 148
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-21",
+    "daily_im_txn": 124546.67,
+    "daily_to_txn": 194
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-22",
+    "daily_im_txn": 117815,
+    "daily_to_txn": 246
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-23",
+    "daily_im_txn": 169235.29,
+    "daily_to_txn": 328
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-24",
+    "daily_im_txn": 190256.56,
+    "daily_to_txn": 322
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-25",
+    "daily_im_txn": 210440.09,
+    "daily_to_txn": 288
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-26",
+    "daily_im_txn": 263888.92,
+    "daily_to_txn": 369
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-27",
+    "daily_im_txn": 127264.84,
+    "daily_to_txn": 244
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-28",
+    "daily_im_txn": 130032.36,
+    "daily_to_txn": 242
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-29",
+    "daily_im_txn": 126730.38,
+    "daily_to_txn": 277
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-30",
+    "daily_im_txn": 71769.74,
+    "daily_to_txn": 111
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2015-12-31",
+    "daily_im_txn": 141466.54,
+    "daily_to_txn": 263
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-1",
+    "daily_im_txn": 108814.81,
+    "daily_to_txn": 238
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-2",
+    "daily_im_txn": 98588.1,
+    "daily_to_txn": 202
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-3",
+    "daily_im_txn": 87243.12,
+    "daily_to_txn": 172
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-4",
+    "daily_im_txn": 121260.68,
+    "daily_to_txn": 212
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-5",
+    "daily_im_txn": 27120.59,
+    "daily_to_txn": 47
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-6",
+    "daily_im_txn": 52095.43,
+    "daily_to_txn": 74
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-7",
+    "daily_im_txn": 754829.5,
+    "daily_to_txn": 378
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-8",
+    "daily_im_txn": 282057.44,
+    "daily_to_txn": 434
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-9",
+    "daily_im_txn": 263777.55,
+    "daily_to_txn": 433
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-10",
+    "daily_im_txn": 72715.71,
+    "daily_to_txn": 110
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-11",
+    "daily_im_txn": 109766.94,
+    "daily_to_txn": 230
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-12",
+    "daily_im_txn": 39395.45,
+    "daily_to_txn": 97
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-13",
+    "daily_im_txn": 113664.69,
+    "daily_to_txn": 166
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-14",
+    "daily_im_txn": 103540.38,
+    "daily_to_txn": 213
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-15",
+    "daily_im_txn": 203613.71,
+    "daily_to_txn": 270
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-16",
+    "daily_im_txn": 180570.94,
+    "daily_to_txn": 320
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-17",
+    "daily_im_txn": 236764.55,
+    "daily_to_txn": 414
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-18",
+    "daily_im_txn": 113145.78,
+    "daily_to_txn": 219
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-19",
+    "daily_im_txn": 166871.31,
+    "daily_to_txn": 296
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-20",
+    "daily_im_txn": 75483.53,
+    "daily_to_txn": 159
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-21",
+    "daily_im_txn": 130059.62,
+    "daily_to_txn": 219
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-22",
+    "daily_im_txn": 115888.51,
+    "daily_to_txn": 196
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-23",
+    "daily_im_txn": 53155.91,
+    "daily_to_txn": 130
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-24",
+    "daily_im_txn": 86112.5,
+    "daily_to_txn": 177
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-25",
+    "daily_im_txn": 35741.97,
+    "daily_to_txn": 59
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-26",
+    "daily_im_txn": 145650.43,
+    "daily_to_txn": 339
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-27",
+    "daily_im_txn": 282031.03,
+    "daily_to_txn": 405
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-28",
+    "daily_im_txn": 144667.53,
+    "daily_to_txn": 226
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-29",
+    "daily_im_txn": 267446.94,
+    "daily_to_txn": 372
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-30",
+    "daily_im_txn": 93638.46,
+    "daily_to_txn": 197
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-1-31",
+    "daily_im_txn": 194669.43,
+    "daily_to_txn": 323
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-1",
+    "daily_im_txn": 113825.01,
+    "daily_to_txn": 195
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-2",
+    "daily_im_txn": 116231.06,
+    "daily_to_txn": 204
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-3",
+    "daily_im_txn": 108379.76,
+    "daily_to_txn": 187
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-4",
+    "daily_im_txn": 203989.68,
+    "daily_to_txn": 390
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-5",
+    "daily_im_txn": 170212.51,
+    "daily_to_txn": 276
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-6",
+    "daily_im_txn": 116889.92,
+    "daily_to_txn": 186
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-7",
+    "daily_im_txn": 115765.05,
+    "daily_to_txn": 184
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-8",
+    "daily_im_txn": 279142.15,
+    "daily_to_txn": 419
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-9",
+    "daily_im_txn": 84929.52,
+    "daily_to_txn": 178
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-10",
+    "daily_im_txn": 88204.58,
+    "daily_to_txn": 175
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-11",
+    "daily_im_txn": 106769.05,
+    "daily_to_txn": 175
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-12",
+    "daily_im_txn": 216053.67,
+    "daily_to_txn": 378
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-13",
+    "daily_im_txn": 110383.75,
+    "daily_to_txn": 204
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-14",
+    "daily_im_txn": 61351.24,
+    "daily_to_txn": 135
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-15",
+    "daily_im_txn": 99509.14,
+    "daily_to_txn": 172
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-16",
+    "daily_im_txn": 335060.19,
+    "daily_to_txn": 188
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-17",
+    "daily_im_txn": 67022.53,
+    "daily_to_txn": 122
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-18",
+    "daily_im_txn": 192159.2,
+    "daily_to_txn": 266
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-19",
+    "daily_im_txn": 108397.82,
+    "daily_to_txn": 200
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-20",
+    "daily_im_txn": 287227.61,
+    "daily_to_txn": 448
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-21",
+    "daily_im_txn": 119726.83,
+    "daily_to_txn": 244
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-22",
+    "daily_im_txn": 94243.87,
+    "daily_to_txn": 170
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-23",
+    "daily_im_txn": 187228.52,
+    "daily_to_txn": 312
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-24",
+    "daily_im_txn": 74078.53,
+    "daily_to_txn": 150
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-25",
+    "daily_im_txn": 83641.09,
+    "daily_to_txn": 125
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-26",
+    "daily_im_txn": 218618.68,
+    "daily_to_txn": 334
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-27",
+    "daily_im_txn": 97872.96,
+    "daily_to_txn": 205
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-28",
+    "daily_im_txn": 216143.94,
+    "daily_to_txn": 311
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-2-29",
+    "daily_im_txn": 208153.31,
+    "daily_to_txn": 371
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-1",
+    "daily_im_txn": 193162.47,
+    "daily_to_txn": 400
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-2",
+    "daily_im_txn": 105718.22,
+    "daily_to_txn": 273
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-3",
+    "daily_im_txn": 280895.06,
+    "daily_to_txn": 442
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-4",
+    "daily_im_txn": 93637.22,
+    "daily_to_txn": 191
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-5",
+    "daily_im_txn": 184515.83,
+    "daily_to_txn": 299
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-6",
+    "daily_im_txn": 128618.04,
+    "daily_to_txn": 225
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-7",
+    "daily_im_txn": 282983.98,
+    "daily_to_txn": 438
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-8",
+    "daily_im_txn": 856668.84,
+    "daily_to_txn": 311
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-9",
+    "daily_im_txn": 526398.69,
+    "daily_to_txn": 162
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-10",
+    "daily_im_txn": 173829.7,
+    "daily_to_txn": 354
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-11",
+    "daily_im_txn": 73751.06,
+    "daily_to_txn": 149
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-12",
+    "daily_im_txn": 91800.01,
+    "daily_to_txn": 176
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-13",
+    "daily_im_txn": 210226.06,
+    "daily_to_txn": 389
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-14",
+    "daily_im_txn": 206986.35,
+    "daily_to_txn": 367
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-15",
+    "daily_im_txn": 77449.34,
+    "daily_to_txn": 130
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-16",
+    "daily_im_txn": 259469.06,
+    "daily_to_txn": 416
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-17",
+    "daily_im_txn": 164972.56,
+    "daily_to_txn": 344
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-18",
+    "daily_im_txn": 96906.22,
+    "daily_to_txn": 211
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-19",
+    "daily_im_txn": 267822.16,
+    "daily_to_txn": 440
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-20",
+    "daily_im_txn": 74349.15,
+    "daily_to_txn": 142
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-21",
+    "daily_im_txn": 121619.37,
+    "daily_to_txn": 159
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-22",
+    "daily_im_txn": 81660.08,
+    "daily_to_txn": 166
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-23",
+    "daily_im_txn": 169464.29,
+    "daily_to_txn": 286
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-24",
+    "daily_im_txn": 79900.57,
+    "daily_to_txn": 181
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-25",
+    "daily_im_txn": 123222.7,
+    "daily_to_txn": 265
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-26",
+    "daily_im_txn": 34606.7,
+    "daily_to_txn": 34
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-27",
+    "daily_im_txn": 224055.58,
+    "daily_to_txn": 309
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-28",
+    "daily_im_txn": 115864.05,
+    "daily_to_txn": 243
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-29",
+    "daily_im_txn": 198399.68,
+    "daily_to_txn": 336
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-30",
+    "daily_im_txn": 90294.31,
+    "daily_to_txn": 188
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-3-31",
+    "daily_im_txn": 121964.2,
+    "daily_to_txn": 218
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-1",
+    "daily_im_txn": 124558.76,
+    "daily_to_txn": 215
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-2",
+    "daily_im_txn": 82903.94,
+    "daily_to_txn": 163
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-3",
+    "daily_im_txn": 148179.2,
+    "daily_to_txn": 236
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-4",
+    "daily_im_txn": 96159.05,
+    "daily_to_txn": 161
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-5",
+    "daily_im_txn": 110730.89,
+    "daily_to_txn": 246
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-6",
+    "daily_im_txn": 179287.35,
+    "daily_to_txn": 338
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-7",
+    "daily_im_txn": 236635.62,
+    "daily_to_txn": 403
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-8",
+    "daily_im_txn": 225086.64,
+    "daily_to_txn": 326
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-9",
+    "daily_im_txn": 191307.03,
+    "daily_to_txn": 344
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-10",
+    "daily_im_txn": 101599.53,
+    "daily_to_txn": 203
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-11",
+    "daily_im_txn": 191600.31,
+    "daily_to_txn": 369
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-12",
+    "daily_im_txn": 72471.66,
+    "daily_to_txn": 142
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-13",
+    "daily_im_txn": 23883.53,
+    "daily_to_txn": 59
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-14",
+    "daily_im_txn": 198729.02,
+    "daily_to_txn": 348
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-15",
+    "daily_im_txn": 277990.11,
+    "daily_to_txn": 438
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-16",
+    "daily_im_txn": 111411.44,
+    "daily_to_txn": 239
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-17",
+    "daily_im_txn": 173679.49,
+    "daily_to_txn": 310
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-18",
+    "daily_im_txn": 189291.76,
+    "daily_to_txn": 291
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-19",
+    "daily_im_txn": 221857.3,
+    "daily_to_txn": 326
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-20",
+    "daily_im_txn": 67333.15,
+    "daily_to_txn": 168
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-21",
+    "daily_im_txn": 226455.81,
+    "daily_to_txn": 374
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-22",
+    "daily_im_txn": 153418.38,
+    "daily_to_txn": 298
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-23",
+    "daily_im_txn": 181724.16,
+    "daily_to_txn": 292
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-24",
+    "daily_im_txn": 298495.61,
+    "daily_to_txn": 372
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-25",
+    "daily_im_txn": 209823.64,
+    "daily_to_txn": 326
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-26",
+    "daily_im_txn": 117783.25,
+    "daily_to_txn": 219
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-27",
+    "daily_im_txn": 113034.98,
+    "daily_to_txn": 232
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-28",
+    "daily_im_txn": 181516.68,
+    "daily_to_txn": 316
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-29",
+    "daily_im_txn": 100283.15,
+    "daily_to_txn": 185
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-4-30",
+    "daily_im_txn": 389821.74,
+    "daily_to_txn": 205
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-1",
+    "daily_im_txn": 128678.05,
+    "daily_to_txn": 246
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-2",
+    "daily_im_txn": 123048.72,
+    "daily_to_txn": 228
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-3",
+    "daily_im_txn": 195303.96,
+    "daily_to_txn": 348
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-4",
+    "daily_im_txn": 216388.06,
+    "daily_to_txn": 299
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-5",
+    "daily_im_txn": 79984.46,
+    "daily_to_txn": 136
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-6",
+    "daily_im_txn": 245216.49,
+    "daily_to_txn": 422
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-7",
+    "daily_im_txn": 244777.98,
+    "daily_to_txn": 326
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-8",
+    "daily_im_txn": 75030.73,
+    "daily_to_txn": 142
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-9",
+    "daily_im_txn": 263375.49,
+    "daily_to_txn": 374
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-10",
+    "daily_im_txn": 184983.17,
+    "daily_to_txn": 283
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-11",
+    "daily_im_txn": 19181.73,
+    "daily_to_txn": 34
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-12",
+    "daily_im_txn": 246499.5,
+    "daily_to_txn": 313
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-13",
+    "daily_im_txn": 72117.7,
+    "daily_to_txn": 125
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-14",
+    "daily_im_txn": 166218.54,
+    "daily_to_txn": 295
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-15",
+    "daily_im_txn": 270604.18,
+    "daily_to_txn": 398
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-16",
+    "daily_im_txn": 86411.81,
+    "daily_to_txn": 157
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-17",
+    "daily_im_txn": 162252.84,
+    "daily_to_txn": 261
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-18",
+    "daily_im_txn": 204231.46,
+    "daily_to_txn": 357
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-19",
+    "daily_im_txn": 170716.37,
+    "daily_to_txn": 278
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-20",
+    "daily_im_txn": 87771.97,
+    "daily_to_txn": 192
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-21",
+    "daily_im_txn": 109205.75,
+    "daily_to_txn": 198
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-22",
+    "daily_im_txn": 207821.94,
+    "daily_to_txn": 286
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-23",
+    "daily_im_txn": 638506.93,
+    "daily_to_txn": 314
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-24",
+    "daily_im_txn": 96576.25,
+    "daily_to_txn": 200
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-25",
+    "daily_im_txn": 129472.59,
+    "daily_to_txn": 209
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-26",
+    "daily_im_txn": 261242.06,
+    "daily_to_txn": 394
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-27",
+    "daily_im_txn": 247280.09,
+    "daily_to_txn": 334
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-28",
+    "daily_im_txn": 124764.85,
+    "daily_to_txn": 208
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-29",
+    "daily_im_txn": 196946.16,
+    "daily_to_txn": 333
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-30",
+    "daily_im_txn": 276556.54,
+    "daily_to_txn": 452
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-5-31",
+    "daily_im_txn": 103299.19,
+    "daily_to_txn": 197
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-1",
+    "daily_im_txn": 250775.15,
+    "daily_to_txn": 331
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-2",
+    "daily_im_txn": 122266.6,
+    "daily_to_txn": 219
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-3",
+    "daily_im_txn": 121864.39,
+    "daily_to_txn": 219
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-4",
+    "daily_im_txn": 118185.16,
+    "daily_to_txn": 181
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-5",
+    "daily_im_txn": 168127.42,
+    "daily_to_txn": 324
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-6",
+    "daily_im_txn": 86060.66,
+    "daily_to_txn": 191
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-7",
+    "daily_im_txn": 105599.72,
+    "daily_to_txn": 195
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-8",
+    "daily_im_txn": 79241.92,
+    "daily_to_txn": 135
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-9",
+    "daily_im_txn": 193776.44,
+    "daily_to_txn": 388
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-10",
+    "daily_im_txn": 106399.7,
+    "daily_to_txn": 233
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-11",
+    "daily_im_txn": 120931.08,
+    "daily_to_txn": 266
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-12",
+    "daily_im_txn": 122946.83,
+    "daily_to_txn": 211
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-13",
+    "daily_im_txn": 40016.35,
+    "daily_to_txn": 92
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-14",
+    "daily_im_txn": 143714.95,
+    "daily_to_txn": 276
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-15",
+    "daily_im_txn": 257088.52,
+    "daily_to_txn": 408
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-16",
+    "daily_im_txn": 231180.06,
+    "daily_to_txn": 308
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-17",
+    "daily_im_txn": 114472.68,
+    "daily_to_txn": 158
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-18",
+    "daily_im_txn": 113847.64,
+    "daily_to_txn": 219
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-19",
+    "daily_im_txn": 43982.69,
+    "daily_to_txn": 83
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-20",
+    "daily_im_txn": 191582.85,
+    "daily_to_txn": 308
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-21",
+    "daily_im_txn": 62209.15,
+    "daily_to_txn": 141
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-22",
+    "daily_im_txn": 89590.6,
+    "daily_to_txn": 206
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-23",
+    "daily_im_txn": 266182.63,
+    "daily_to_txn": 414
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-24",
+    "daily_im_txn": 170056.2,
+    "daily_to_txn": 247
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-25",
+    "daily_im_txn": 136813.52,
+    "daily_to_txn": 327
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-26",
+    "daily_im_txn": 91394.02,
+    "daily_to_txn": 193
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-27",
+    "daily_im_txn": 132429.39,
+    "daily_to_txn": 226
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-28",
+    "daily_im_txn": 78874.06,
+    "daily_to_txn": 171
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-29",
+    "daily_im_txn": 51923.25,
+    "daily_to_txn": 106
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-6-30",
+    "daily_im_txn": 208967.81,
+    "daily_to_txn": 310
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-1",
+    "daily_im_txn": 116035.01,
+    "daily_to_txn": 211
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-2",
+    "daily_im_txn": 174873.99,
+    "daily_to_txn": 309
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-3",
+    "daily_im_txn": 153793.83,
+    "daily_to_txn": 240
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-4",
+    "daily_im_txn": 218333.3,
+    "daily_to_txn": 353
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-5",
+    "daily_im_txn": 155219.03,
+    "daily_to_txn": 310
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-6",
+    "daily_im_txn": 131203.24,
+    "daily_to_txn": 283
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-7",
+    "daily_im_txn": 180787.67,
+    "daily_to_txn": 270
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-8",
+    "daily_im_txn": 23011.4,
+    "daily_to_txn": 50
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-9",
+    "daily_im_txn": 119160.07,
+    "daily_to_txn": 242
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-10",
+    "daily_im_txn": 230305.98,
+    "daily_to_txn": 311
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-11",
+    "daily_im_txn": 106987.77,
+    "daily_to_txn": 220
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-12",
+    "daily_im_txn": 136379.05,
+    "daily_to_txn": 232
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-13",
+    "daily_im_txn": 168714.73,
+    "daily_to_txn": 270
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-14",
+    "daily_im_txn": 82307.41,
+    "daily_to_txn": 170
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-15",
+    "daily_im_txn": 140449.28,
+    "daily_to_txn": 257
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-16",
+    "daily_im_txn": 8797.25,
+    "daily_to_txn": 22
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-17",
+    "daily_im_txn": 97081,
+    "daily_to_txn": 209
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-18",
+    "daily_im_txn": 220035.99,
+    "daily_to_txn": 399
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-19",
+    "daily_im_txn": 188737.97,
+    "daily_to_txn": 351
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-20",
+    "daily_im_txn": 112289.01,
+    "daily_to_txn": 89
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-21",
+    "daily_im_txn": 209302.47,
+    "daily_to_txn": 349
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-22",
+    "daily_im_txn": 207885.03,
+    "daily_to_txn": 355
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-23",
+    "daily_im_txn": 41035.22,
+    "daily_to_txn": 79
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-24",
+    "daily_im_txn": 73326.17,
+    "daily_to_txn": 134
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-25",
+    "daily_im_txn": 75330.83,
+    "daily_to_txn": 178
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-26",
+    "daily_im_txn": 133985.69,
+    "daily_to_txn": 239
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-27",
+    "daily_im_txn": 183709.05,
+    "daily_to_txn": 266
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-28",
+    "daily_im_txn": 136206.46,
+    "daily_to_txn": 207
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-29",
+    "daily_im_txn": 125944.15,
+    "daily_to_txn": 250
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-30",
+    "daily_im_txn": 145135.18,
+    "daily_to_txn": 230
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-7-31",
+    "daily_im_txn": 119845.39,
+    "daily_to_txn": 284
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-1",
+    "daily_im_txn": 142336.93,
+    "daily_to_txn": 291
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-2",
+    "daily_im_txn": 84376.25,
+    "daily_to_txn": 165
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-3",
+    "daily_im_txn": 54354.68,
+    "daily_to_txn": 83
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-4",
+    "daily_im_txn": 126377.57,
+    "daily_to_txn": 268
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-5",
+    "daily_im_txn": 159190.66,
+    "daily_to_txn": 251
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-6",
+    "daily_im_txn": 161772.44,
+    "daily_to_txn": 272
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-7",
+    "daily_im_txn": 289443.71,
+    "daily_to_txn": 433
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-8",
+    "daily_im_txn": 111220.6,
+    "daily_to_txn": 261
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-9",
+    "daily_im_txn": 91412.21,
+    "daily_to_txn": 127
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-10",
+    "daily_im_txn": 286799.84,
+    "daily_to_txn": 425
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-11",
+    "daily_im_txn": 127912.65,
+    "daily_to_txn": 309
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-12",
+    "daily_im_txn": 588213.26,
+    "daily_to_txn": 161
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-13",
+    "daily_im_txn": 125791.7,
+    "daily_to_txn": 184
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-14",
+    "daily_im_txn": 114227.26,
+    "daily_to_txn": 232
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-15",
+    "daily_im_txn": 196001.03,
+    "daily_to_txn": 391
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-16",
+    "daily_im_txn": 506582.18,
+    "daily_to_txn": 248
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-17",
+    "daily_im_txn": 214385.02,
+    "daily_to_txn": 357
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-18",
+    "daily_im_txn": 44224.06,
+    "daily_to_txn": 89
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-19",
+    "daily_im_txn": 147756.72,
+    "daily_to_txn": 194
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-20",
+    "daily_im_txn": 284000.16,
+    "daily_to_txn": 451
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-21",
+    "daily_im_txn": 126694.54,
+    "daily_to_txn": 274
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-22",
+    "daily_im_txn": 159561.04,
+    "daily_to_txn": 299
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-23",
+    "daily_im_txn": 196623.17,
+    "daily_to_txn": 336
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-24",
+    "daily_im_txn": 110075.42,
+    "daily_to_txn": 189
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-25",
+    "daily_im_txn": 242675.05,
+    "daily_to_txn": 374
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-26",
+    "daily_im_txn": 130397.8,
+    "daily_to_txn": 286
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-27",
+    "daily_im_txn": 484999.67,
+    "daily_to_txn": 296
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-28",
+    "daily_im_txn": 274703.85,
+    "daily_to_txn": 411
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-29",
+    "daily_im_txn": 170978.21,
+    "daily_to_txn": 324
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-30",
+    "daily_im_txn": 72552.45,
+    "daily_to_txn": 179
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-8-31",
+    "daily_im_txn": 58583.45,
+    "daily_to_txn": 136
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-1",
+    "daily_im_txn": 548308.91,
+    "daily_to_txn": 264
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-2",
+    "daily_im_txn": 419767.14,
+    "daily_to_txn": 313
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-3",
+    "daily_im_txn": 155911.97,
+    "daily_to_txn": 268
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-4",
+    "daily_im_txn": 241501.5,
+    "daily_to_txn": 357
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-5",
+    "daily_im_txn": 216127.24,
+    "daily_to_txn": 370
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-6",
+    "daily_im_txn": 124359.33,
+    "daily_to_txn": 249
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-7",
+    "daily_im_txn": 82840.11,
+    "daily_to_txn": 112
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-8",
+    "daily_im_txn": 255018.85,
+    "daily_to_txn": 408
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-9",
+    "daily_im_txn": 94592.44,
+    "daily_to_txn": 170
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-10",
+    "daily_im_txn": 379193.79,
+    "daily_to_txn": 427
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-11",
+    "daily_im_txn": 84166.28,
+    "daily_to_txn": 178
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-12",
+    "daily_im_txn": 97245.77,
+    "daily_to_txn": 173
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-13",
+    "daily_im_txn": 226227.29,
+    "daily_to_txn": 374
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-14",
+    "daily_im_txn": 112390.88,
+    "daily_to_txn": 171
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-15",
+    "daily_im_txn": 236735.35,
+    "daily_to_txn": 310
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-16",
+    "daily_im_txn": 257783.66,
+    "daily_to_txn": 413
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-17",
+    "daily_im_txn": 262071.59,
+    "daily_to_txn": 367
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-18",
+    "daily_im_txn": 91467.74,
+    "daily_to_txn": 165
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-19",
+    "daily_im_txn": 163190.23,
+    "daily_to_txn": 350
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-20",
+    "daily_im_txn": 186277.39,
+    "daily_to_txn": 347
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-21",
+    "daily_im_txn": 533165.06,
+    "daily_to_txn": 289
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-22",
+    "daily_im_txn": 172868.56,
+    "daily_to_txn": 310
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-23",
+    "daily_im_txn": 193262,
+    "daily_to_txn": 330
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-24",
+    "daily_im_txn": 197930.61,
+    "daily_to_txn": 368
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-25",
+    "daily_im_txn": 71938.81,
+    "daily_to_txn": 154
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-26",
+    "daily_im_txn": 104057.66,
+    "daily_to_txn": 185
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-27",
+    "daily_im_txn": 48068.54,
+    "daily_to_txn": 69
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-28",
+    "daily_im_txn": 184746.27,
+    "daily_to_txn": 281
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-29",
+    "daily_im_txn": 583491.48,
+    "daily_to_txn": 273
+  },
+  {
+    "cd_postal_cmr": "1000",
+    "date": "2016-9-30",
+    "daily_im_txn": 131704.23,
+    "daily_to_txn": 262
+  }
+]

@@ -1,0 +1,1 @@
+Rscript -e 'date()' -e 'format(Sys.time(), "%a %b %d %X %Y")'
