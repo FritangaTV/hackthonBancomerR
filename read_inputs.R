@@ -9,11 +9,12 @@ library(jsonlite)
 library(dplyr)
 library(forecast)
 #### read Json ####
-input <- fromJSON("input.json")
+input <- fromJSON(input_path)
 timeframe <- as.Date(names(input))
+timeframe <- timeframe[order(timeframe)]
 n <- length(timeframe)
 
-## daily data frame aff
+##### daily data frame aff ####
 daily_df_aff <- data.frame(date = timeframe,
                            money_total = rep(0, n),
                            trans_count = rep(0, n),
@@ -29,30 +30,9 @@ for(i in seq_along(timeframe)){
     daily_df_aff[i ,"cards"] <- input[[i]][["transactions"]]$cards
   }
 }
+daily_df_aff <-  daily_df_aff[order(daily_df_aff$date),] #ordenado por fechas
 
-
-af_ts_money_total <- ts(daily_df_aff[order(daily_df_aff$date), "money_total"], 
-                        frequency = 7, 
-                        start=c(1,1))
-proy_m <- fitted(HoltWinters(af_ts_money_total))[,1]
-proy_m <- cbind(af_ts_money_total, proy_m)
-proy_m <- as.data.frame(proy_m)
-daily_df_aff <- as.data.frame(cbind(daily_df_aff, proy_m))
-
-
-
-
-af_ts_trans_count <- ts(daily_df_aff[order(daily_df_aff$date), "trans_count"], 
-                        frequency = 7, 
-                        start=c(1,1))
-proy_c <- fitted(HoltWinters(af_ts_trans_count))[,1]
-proy_c <- cbind(af_ts_trans_count, proy_c)
-proy_c <- as.data.frame(proy_c)
-daily_df_aff <- as.data.frame(cbind(daily_df_aff, proy_c))
-daily_df_aff <- daily_df_aff[ , c(1,2,3,4,5,7,9)]
-
-
-## daily data frame cp
+#### daily data frame cp ####
 daily_df_cp <- data.frame(date = timeframe,
                            money_total = rep(0, n),
                            trans_count = rep(0, n),
@@ -68,51 +48,48 @@ for(i in seq_along(timeframe)){
   daily_df_cp[i ,"cards"] <- input[[i]][["area"]]$cards
   }
 }
+daily_df_cp <- daily_df_cp[order(daily_df_cp$date),]
+
+#### proyeccions ####
+add_proyection <- function(df, var){
+  time_series_dates <- df[1:(n-7), "date"] #sin los ultimos 7 dias
+  series <- ts(df[1:(n-7), var], 
+               frequency = 7, 
+               start=c(1,1))
+  fitted_model <- HoltWinters(series)
+  fitted_data <- as.numeric(fitted(fitted_model)[,1]) #fitted data for the timesereis period
+  proy <- c(rep(as.numeric(NA),7), fitted_data, as.numeric(predict(fitted_model, 7)[,1]))
+  df_proy <- data.frame(proy = proy, 
+                        date = df[, "date"])
+  names(df_proy) <- c(paste0("proy_", var), "date")
+  return( merge(df_proy, df, by = "date", all.y = TRUE) )
+}
+
+daily_df_aff <- add_proyection(df = daily_df_aff, var = "money_total")
+daily_df_aff <- add_proyection(df = daily_df_aff, var = "trans_count")
+
+daily_df_cp <- add_proyection(df = daily_df_cp, var = "money_total")
+daily_df_cp <- add_proyection(df = daily_df_cp, var = "trans_count")
 
 
-
-cp_ts_money_total <- ts(daily_df_cp[order(daily_df_cp$date), "money_total"], 
-                        frequency = 7, 
-                        start=c(1,1))
-proy_m <- fitted(HoltWinters(cp_ts_money_total))[,1]
-proy_m <- cbind(cp_ts_money_total, proy_m)
-proy_m <- as.data.frame(proy_m)
-daily_df_cp <- as.data.frame(cbind(daily_df_cp, proy_m))
-
-
-
-
-cp_ts_trans_count <- ts(daily_df_cp[order(daily_df_cp$date), "trans_count"], 
-                        frequency = 7, 
-                        start=c(1,1))
-proy_c <- fitted(HoltWinters(cp_ts_trans_count))[,1]
-proy_c <- cbind(cp_ts_trans_count, proy_c)
-proy_c <- as.data.frame(proy_c)
-daily_df_cp <- as.data.frame(cbind(daily_df_cp, proy_c))
-daily_df_cp <- daily_df_cp[ , c(1,2,3,4,5,7,9)]
-
-
-
-## daily data frame variables exogenas
+#### daily data frame variables exogenas ####
 df <- data.frame(date = timeframe)
-categ_names <- names(input[[1]])
-exogenous_categ <- categ_names[! categ_names %in% c("area", "transactions")]
 
+#### weather df ####
 w_list <- list()
 for( d in seq_along(timeframe) ){ #dentro del dia d
-  i <- 2
-  informacion <- input[[d]][[exogenous_categ[i]]]
-  info_unlist <- c(as.character(timeframe[d]),unlist(informacion))
+  informacion <- input[[d]][["weather"]]
+  info_unlist <- c(as.character(as.Date(names(input))[d]),unlist(informacion))
   names(info_unlist)[1] <- "date"
   w_list[[d]] <- as.data.frame(t(info_unlist))
 }
 df_w <- Reduce(rbind, w_list)
 
+#### metadata df ####
 m_list <- list()
 for( d in seq_along(timeframe) ){ #dentro del dia d
-  i <- 1
-  informacion <- input[[d]][[exogenous_categ[i]]]
-  info_unlist <- c(as.character(timeframe[d]),unlist(informacion))
+  informacion <- input[[d]][["meta"]]
+  info_unlist <- c(as.character(as.Date(names(input))[d]),unlist(informacion))
   names(info_unlist)[1] <- "date"
   m_list[[d]] <- as.data.frame(t(info_unlist))
 }
@@ -120,68 +97,32 @@ df_m <- Reduce(rbind, m_list)
 
 df <- merge(df_m, df_w)
 
+#### corrigiendo tipos de valores en el df de exogenas ####
 df$date <- as.Date(df$date)
-for( i in c(2, 5:25)){
-  df[ , i] <- as.numeric(df[ ,i])
+variables_factores  <- c("weekday", "feriado", "event", "partido_seleccion")
+for( i in seq_along(names(df))){
+  if (! names(df)[i] %in% variables_factores){
+    df[ , i] <- as.numeric(df[ ,i])
+  }
 }
-# 
-# #### Data frame aff dumy example ####
-# df <- readRDS("list_by_id_afil.rds")
-# df <- df[[1]] 
-# 
-# df %>%
-#   group_by(id_afil, date_year, date_month, date_day) %>%
-#     select(date_year, date_month, date_day, im_txn, to_txn) %>%
-#     summarise(
-#       daily_im_txn = sum(im_txn),
-#       daily_to_txn = sum(to_txn)
-#       ) %>%
-#     ungroup() %>%
-#     mutate(
-#       date = paste(date_year, date_month, date_day, sep = "-")
-#     )%>%
-#     select(id_afil, date, daily_im_txn, daily_to_txn) -> daily_df_aff
-# #### Data frame cp dumy example ####
-# df <- readRDS("list_by_cd_postal_cmr.rds")
-# df <- df[[1]] 
-# 
-# df %>%
-#   group_by(cd_postal_cmr, date_year, date_month, date_day) %>%
-#   select(date_year, date_month, date_day, im_txn, to_txn) %>%
-#   summarise(
-#     daily_im_txn = sum(im_txn),
-#     daily_to_txn = sum(to_txn)
-#   ) %>%
-#   ungroup() %>%
-#   mutate(
-#     date = paste(date_year, date_month, date_day, sep = "-")
-#   )%>%
-#   select(cd_postal_cmr, date, daily_im_txn, daily_to_txn)-> daily_df_cp
-# #### Data frame variables exogenas dumy example ####
-# 
-# ini_date <- as.Date(min(c(min(daily_df_aff$date), min(daily_df_cp$date))))
-# end_date <- as.Date(max(c(max(daily_df_aff$date), max(daily_df_cp$date))))
-# df <- data.frame(date = seq(ini_date, end_date, by = "day"))
-# df$X1 <- rnorm(n = nrow(df), mean = 100, sd = 10)
-# df$X2 <- rnorm(n = nrow(df), mean = 6, sd = 10)
-# df$X3 <- rnorm(n = nrow(df), mean = 62, sd = 11)
-# df$X4 <- rnorm(n = nrow(df), mean = 103, sd = 13)
-# df$X5 <- rnorm(n = nrow(df), mean = 113, sd = 6)
-# df$X6 <- rnorm(n = nrow(df), mean = 10, sd = 12)
-# df$X7 <- rnorm(n = nrow(df), mean = 118, sd = 8)
-# df$X8 <- rnorm(n = nrow(df), mean = 143, sd = 12)
-# df$X9 <- rnorm(n = nrow(df), mean = 20, sd = 10)
-# #### Export to Json de dataframes example ####
-# # cat(toJSON(daily_df_cp, pretty = TRUE), file = "cp_json.json")
-# # cat(toJSON(daily_df_aff, pretty = TRUE), file = "aff_json.json")
-# 
-# #### create data frame ####
 
-parsed <- list()
-train <- timeframe[daily_df_aff$date < max(timeframe)-7]
-parsed[["Affiliation"]] <- merge(daily_df_aff[daily_df_aff$date %in% train, ],
-                                 daily_df_cp[daily_df_aff$date %in% train, ],
+rm(df_m, df_w, variables_factores, w_list, m_list)
+
+##### create data frame ####
+
+model <- data.frame()
+train <- data.frame()
+### subsetting the data ###
+train_index <- timeframe[8:(n-7)] #para quitar los NA's de las predicciones
+model_index <- timeframe[(n-6):n] #los ultimos 7 dias
+
+train <- merge(daily_df_aff[daily_df_aff$date %in% train_index, ],
+                                 daily_df_cp[daily_df_cp$date %in% train_index, ],
                                  by = "date")
-parsed[["exogenous"]] <- df[daily_df_aff$date %in% train,]
-parsed[["CodigoPostal"]] <- daily_df_cp[daily_df_aff$date %in% train, ]
-#rm(daily_df_aff, daily_df_cp, df, df_w, categ_names, d, df_m, exogenous_categ, i, info_unlist,informacion, input, m_list, n, timeframe, w_list)
+train <- merge(train, df[df$date %in% train_index, ], by = "date")
+
+
+model <- merge(daily_df_aff[daily_df_aff$date %in% model_index, ],
+               daily_df_cp[daily_df_cp$date %in% model_index, ],
+               by = "date")
+model <- merge(model, df[df$date %in% model_index, ], by = "date")
